@@ -4,7 +4,7 @@ import Banner from "./Banner";
 
 function Home(props) {
   return <div className="home">
-      <h1>Ths is Home</h1>
+     
       <Banner />
       
 
